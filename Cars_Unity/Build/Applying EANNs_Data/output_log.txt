@@ -1,0 +1,56 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon R7 M260 (ID=0x6900)
+    Vendor:   ATI
+    VRAM:     2035 MB
+    Driver:   15.201.1101.0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\GUNAY\Desktop\Applying_EANNs-master\Build\Applying EANNs_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\GUNAY\Desktop\Applying_EANNs-master\Build\Applying EANNs_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\GUNAY\Desktop\Applying_EANNs-master\Build\Applying EANNs_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\GUNAY\Desktop\Applying_EANNs-master\Build\Applying EANNs_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\GUNAY\Desktop\Applying_EANNs-master\Build\Applying EANNs_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\GUNAY\Desktop\Applying_EANNs-master\Build\Applying EANNs_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\GUNAY\Desktop\Applying_EANNs-master\Build\Applying EANNs_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\GUNAY\Desktop\Applying_EANNs-master\Build\Applying EANNs_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  3.628 seconds
+Platform assembly: C:\Users\GUNAY\Desktop\Applying_EANNs-master\Build\Applying EANNs_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\GUNAY\Desktop\Applying_EANNs-master\Build\Applying EANNs_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 41.240498 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3ab4 -> priority: 1 
+  Thread -> id: 1fb4 -> priority: 1 
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon R7 M260 (ID=0x6900)
+    Vendor:   ATI
+    VRAM:     2035 MB
+    Driver:   15.201.1101.0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\GUNAY\Desktop\Applying_EANNs-master\Build\Applying EANNs_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\GUNAY\Desktop\Applying_EANNs-master\Build\Applying EANNs_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\GUNAY\Desktop\Applying_EANNs-master\Build\Applying EANNs_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\GUNAY\Desktop\Applying_EANNs-master\Build\Applying EANNs_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\GUNAY\Desktop\Applying_EANNs-master\Build\Applying EANNs_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\GUNAY\Desktop\Applying_EANNs-master\Build\Applying EANNs_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\GUNAY\Desktop\Applying_EANNs-master\Build\Applying EANNs_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\GUNAY\Desktop\Applying_EANNs-master\Build\Applying EANNs_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.037 seconds
+Platform assembly: C:\Users\GUNAY\Desktop\Applying_EANNs-master\Build\Applying EANNs_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\GUNAY\Desktop\Applying_EANNs-master\Build\Applying EANNs_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.625900 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1d30 -> priority: 1 
+  Thread -> id: 21b4 -> priority: 1 
